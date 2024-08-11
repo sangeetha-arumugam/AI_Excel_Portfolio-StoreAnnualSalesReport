@@ -18,7 +18,7 @@ Microsoft Excel + AI.
 
 ## Data Analysis & Visualization 
 
-![Alternative Text](assets/images/Findings Q2.png)
+![Alternative Text](assets/images/Findings Q1.png)
 ### 1. Order vs Sales 
 
 **Insight:** A combined chart shows the correlation between the number of orders and total sales, highlighting trends over the year.
